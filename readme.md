@@ -3,9 +3,9 @@
 [Email](mailto:barkha@fractal.ac) / [LinkedIn](https://www.linkedin.com/in/barkhajaved/) 
 
 <p>
-I specialise in providing data warehouse, data analytics and reporting solutions using technologies such as Teradata, SQL Server, SQL Server Reporting Services, Power BI, Qliksense, SQL Server Integration Services, and SQL Server Analysis Services. 
+I specialise in providing data warehouse, data analytics and reporting solutions using technologies such as Teradata, SQL Server, SQL Server Reporting Services, Power BI, Qliksense, SQL Server Integration Services, and SQL Server Analysis Services. </p>
 
-Currently I am also studying Artificial Intelligence at Deakin University. So far in 2021, am developing in Python, building skills in machine learning, chatbot integration, reccommendation systems, and leveraging Azure Cognitive services such as Computer Vision, Custom Vision and LUIS. </p>
+<p>Currently I am also studying Artificial Intelligence at Deakin University. So far in 2021, am developing in Python, building skills in machine learning, chatbot integration, reccommendation systems, and leveraging Azure Cognitive services such as Computer Vision, Custom Vision and LUIS. </p>
 
 
 ## Career History
