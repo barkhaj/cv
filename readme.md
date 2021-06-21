@@ -2,10 +2,12 @@
 
 [Email](mailto:barkha@fractal.ac) / [LinkedIn](https://www.linkedin.com/in/barkhajaved/) 
 
+<p>
+I specialise in providing data warehouse, data analytics and reporting solutions using technologies such as Teradata, SQL Server, SQL Server Reporting Services, Power BI, Qliksense, SQL Server Integration Services, and SQL Server Analysis Services. 
 
-```markdown
+Currently I am also studying Artificial Intelligence at Deakin University. So far in 2021, am developing in Python, building skills in machine learning, chatbot integration, reccommendation systems, and leveraging Azure Cognitive services such as Computer Vision, Custom Vision and LUIS. </p>
+</p>
 
-```
 ## Career History
 
 **Datawarehouse & Business Intelligence Specialist**, Business Systems, IT @ [Royal Australasian College of Physicians](http://www.racp.edu.au/), Sydney, NSW _(Mar 2019 - Present)_ <br>
@@ -20,17 +22,17 @@
 - Power BI web service administration and support, including maintaining data gateways. Promoting and publishing dataflows, datasets, dashboards, and apps to managed workspaces. 
 -	Being an active member of the data governance group, including evaluating, presenting and promoting information such as new Power BI features for problem scenarios at RACP.
 -	Participate, share knowledge, and present in regular BI hub meetings with the wider college BI community.
-
 - **_Technologies used:_** Azure SQL database, Azure Data Factory, Power BI, SQL Server 2019, SSIS, SSRS, Postgres, MySQL, AWS Postgres RDS, AWS S3, Powershell, R, Python, Power Platform <br><br>
 
 **Business Intelligence Specialist**, Enterprise Information Management, IT @ [Avant Mutual Group](http://www.avant.org.au/), Sydney NSW _(Jun 2017 - Feb 2019)_ <br>
 - EIM sprint lead for Project Zebra, for Qlik Sense rollout to Claim, Member Services, CIO, New Ventures, Compliance, People and Culture, General Insurance and Research & Advocacy business units. This includes data preparation and data modelling; Qlik Sense stream provisioning; stake holder consultation and workshops; and project documentation.
 - Design and develop ODS using SQL server 2017, includes creating ETL patterns using SSIS and BIML
-- Enhancements and development of data change requests and new features for the SQL server 2012 data warehouse. Includes data modelling and design, and ETL development.
+- Enhancements and development of data change requests and new features for the SQL server 2012 data warehouse. Includes data modelling and design.
+- Develop ETL processes for the enterprise data warehouse, including sourcing new data from source application databases including Oracle and SQL server databases.
 - Define and breakdown the steps for the reporting publish cycle that align with the data governance framework. Includes forms and checklists to be used for publishing to production.
+- Define and document approach to decommission and migrate Cognos reports to Qlik Sense.
 - Data investigations into data warehouse metrics, quality issues and incidents raised by business users.
 - Support Qlik Sense environment, including installing extensions, setting up tasks, monitoring task scheduler, dashboard performance and troubleshooting.
-
 - **_Technologies used:_** Qliksense, Qlik N Printing, SQL Server 2012 & 2017, SSIS, SSAS, Oracle, R, BIML, SAS, Cognos<br><br>
 
 **Business Intelligence Developer**, Data Operations, Technology @ [Quantium](http://quantium.com/), Sydney, NSW _(Jun 2014 - May 2017)_ <br>
@@ -98,8 +100,10 @@
 
  
 ## Other Training / Accreditations
-
 - Azure AI Fundamentals May, 2021 
+- Testing with Agile by University of Virginia on Coursera. Certificate earned on March 20, 2017
+- Running Product Design Sprints by University of Virginia on Coursera. Certificate earned on August 31, 2016
+- Getting Started: Agile Meets Design Thinking by University of Virginia on Coursera. Certificate earned on July 20, 2016
 - ITIL® Foundation Certificate in IT Service Management September, 2015
 - Exploratory Data Analysis by Johns Hopkins University on Coursera. Certificate earned on August 30, 2015 
 - Getting and Cleaning Data by Johns Hopkins University on Coursera. Certificate earned on August 2, 2015 
