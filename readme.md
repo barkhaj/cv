@@ -98,6 +98,8 @@ I specialise in providing data warehouse, data analytics and reporting solutions
 - 2020 - Current Deakin University Master of Artificial Intelligence  
 - 1993 – 1995 Western Sydney University, Bachelor of Commerce (Computing & Information Systems) 
 
+## Awards
+- CIO Annual Awards, Certificate of Recognition, Avant Mutual, August 2018 
  
 ## Other Training / Accreditations
 - Azure AI Fundamentals May, 2021 
