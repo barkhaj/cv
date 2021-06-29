@@ -8,9 +8,10 @@ I have over 12 years experience in business intelligence. I specialise in provid
 <p>I am also studying Artificial Intelligence part-time at Deakin University. In 2021, am developing in Python, building skills in machine learning and deep learning, integrating chatbots, developing reccommendation systems, and leveraging Azure Cognitive services such as Computer Vision, Custom Vision and LUIS. </p>
 
 
-## Career History <img  align="left" src="https://static.thenounproject.com/png/103965-200.png" width="50" height="50"/> 
+## Career History 
 
-**Datawarehouse & Business Intelligence Specialist**, Business Systems, IT @ [Royal Australasian College of Physicians](http://www.racp.edu.au/), Sydney, NSW _(2019 - Present)_ <br>
+### Datawarehouse & Business Intelligence Specialist <img  align="left" src="https://static.thenounproject.com/png/3492039-200.png" width="50" height="50"/> 
+Business Systems, IT @ [Royal Australasian College of Physicians](http://www.racp.edu.au/), Sydney, NSW _(2019 - Present)_ <br>
 -	First six months spent evaluating BI solutions and conducting proof of concepts to select technology for data acquisition automation, BI and reporting. 
 -	Led data warehouse development using the Microsoft Azure stack, includes Azure SQL database, data lake Gen 2, and Azure Data Factory. 
 -	Conduct data requirements gathering and data modelling workshops for Power BI rollout to Finance STP, Education, Learning & Assessment teams. 
@@ -21,11 +22,12 @@ I have over 12 years experience in business intelligence. I specialise in provid
 -	Maintain Azure SQL ecosystem for the datawarehouse, including evaluation and proof of concept of new features, such as integrating with MS Customer Insights, using Power Automate, and using Power Apps.
 - Power BI web service administration and support, including maintaining data gateways. Promoting and publishing dataflows, datasets, dashboards, and apps to managed workspaces. 
 -	Being an active member of the data governance group, including evaluating, presenting and promoting information such as new Power BI features for problem scenarios at RACP.
--	Participate, share knowledge, and present in regular BI hub meetings with the wider college BI community.<br></br>
+-	Participate, share knowledge, and present in regular BI hub meetings with the wider college BI community.<br><br>
 **_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
 Azure SQL database, Azure Data Factory, Power BI, SQL Server 2019, SSIS, SSRS, Postgres, MySQL, AWS Postgres RDS, AWS S3, Powershell, R, Python, Power Platform <br><br>
 
-**Business Intelligence Specialist**, Enterprise Information Management, IT @ [Avant Mutual Group](http://www.avant.org.au/), Sydney NSW _(2017 - 2019)_ <br>
+### Business Intelligence Specialist <img  align="left" src="https://static.thenounproject.com/png/1089772-200.png" width="50" height="50"/> 
+Enterprise Information Management, IT @ [Avant Mutual Group](http://www.avant.org.au/), Sydney NSW _(2017 - 2019)_ <br>
 - EIM sprint lead for Project Zebra, for Qlik Sense rollout to Claim, Member Services, CIO, New Ventures, Compliance, People and Culture, General Insurance and Research & Advocacy business units. This includes data preparation and data modelling; Qlik Sense stream provisioning; stake holder consultation and workshops; and project documentation.
 - Design and develop ODS using SQL server 2017, includes creating ETL patterns using SSIS and BIML
 - Enhancements and development of data change requests and new features for the SQL server 2012 data warehouse. Includes data modelling and design.
@@ -34,10 +36,11 @@ Azure SQL database, Azure Data Factory, Power BI, SQL Server 2019, SSIS, SSRS, P
 - Define and document approach to decommission and migrate Cognos reports to Qlik Sense.
 - Data investigations into data warehouse metrics, quality issues and incidents raised by business users.
 - Support Qlik Sense environment, including installing extensions, setting up tasks, monitoring task scheduler, dashboard performance and troubleshooting.<br><br>
-**_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/>  
+**_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/>
 Qliksense, Qlik N Printing, SQL Server 2012 & 2017, SSIS, SSAS, Oracle, R, BIML, SAS, Cognos<br><br>
 
-**Business Intelligence Developer**, Data Operations, Technology @ [Quantium](http://quantium.com/), Sydney, NSW _(2014 - 2017)_ <br>
+### Business Intelligence Developer <img  align="left" src="https://static.thenounproject.com/png/199321-200.png" width="50" height="50"/> 
+Data Operations, Technology @ [Quantium](http://quantium.com/), Sydney, NSW _(2014 - 2017)_ <br>
 -	Enhancements and support of SQL server 2005, 2008 and 2012 insurance databases for Quantium QuoteCompare® products. 
 - Support and maintenance of production processes for Google to Store and Facebook analytics data deliverables using SQL server 2014.
 - Productionise, monitor and maintain data quality tests in R for Quantium CheckOut® data, Woolworths EDW data and for bespoke datasets. 
@@ -51,7 +54,8 @@ Qliksense, Qlik N Printing, SQL Server 2012 & 2017, SSIS, SSAS, Oracle, R, BIML,
 **_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
 Teradata, SQL Server 2005-2014, SSIS, SSRS, SSAS, Microstrategy, SAS, C#, R, Bash<br><br>
 
-**Business Intelligence Developer**, Retail Analytics, Technology @ [Quantium](http://quantium.com/), Bella Vista, NSW _(2013 - 2014)_ <br>
+### Business Intelligence Developer <img  align="left" src="https://static.thenounproject.com/png/1180445-200.png" width="50" height="50"/> 
+Retail Analytics, Technology @ [Quantium](http://quantium.com/), Bella Vista, NSW _(2013 - 2014)_ <br>
 -	Develop SSIS packages for importing data from Oracle and Teradata into SQL server 2008 R2 / 2012 databases. Also, develop SSIS packages to push data into Teradata from flat files or other databases. This supports both regular and adhoc analytics.
 -	Create, administer and troubleshoot scheduled SQL jobs for datamarts, reports and cubes. Includes scheduled and data driven subscription reports in a variety of formats including Excel, CSV and PDF. Usage volumes of 600-800 report subscriptions per week.
 -	Developed Woolworths trade planning weekly cube and reports.
@@ -64,7 +68,9 @@ Teradata, SQL Server 2005-2014, SSIS, SSRS, SSAS, Microstrategy, SAS, C#, R, Bas
 **_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
 Teradata, SQL Server 2008 R2-2012, SSIS, SSRS, SSAS, C# <br><br>
 
-**Business Intelligence Developer**, Corporate Customer Engagement @ [Woolworths Limited](https://www.woolworthsgroup.com.au//), Bella Vista NSW _(2011 - 2013)_ <br>
+
+### Business Intelligence Developer <img  align="left" src="https://static.thenounproject.com/png/1180445-200.png" width="50" height="50"/> 
+Corporate Customer Engagement @ [Woolworths Limited](https://www.woolworthsgroup.com.au//), Bella Vista NSW _(2011 - 2013)_ <br>
 -	Model, develop and maintain the SQL server 2008 R2 pricing analysis data mart. 
 -	Implemented the on-shelf availability predictions database. Initial prototype in SQL server 2008, then implemented in Teradata. Includes creating SSIS packages, regular SSRS reports with Teradata datasets, and SSAS cube development.
 -	Migrated Supermarkets promotions management from Access database to a SQL server database with self-serve SSRS reports, volume of 600 reports consumed weekly. Includes database development, maintenance and ongoing support. 
@@ -73,7 +79,8 @@ Teradata, SQL Server 2008 R2-2012, SSIS, SSRS, SSAS, C# <br><br>
 **_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
 Teradata, SQL Server 2008 R2-2012, SSIS, SSRS, SSAS, Oracle, C#, Tableau Server <br><br>
 
-**Business Intelligence Developer**, Supermarket Finance @ [Woolworths Limited](https://www.woolworthsgroup.com.au//), Bella Vista, NSW _(2009 - 2010)_ <br>
+### Business Intelligence Developer <img  align="left" src="https://static.thenounproject.com/png/1180445-200.png" width="50" height="50"/> 
+Supermarket Finance @ [Woolworths Limited](https://www.woolworthsgroup.com.au//), Bella Vista, NSW _(2009 - 2010)_ <br>
 -	Introduced SSRS 2008R2 for supermarket finance BI reporting. Produced scheduled and data driven subscription reports, such as automated weekly competition price monitoring PDF reports, customised per business manager and category.
 -	Implemented competition price monitoring application changes and database enhancements.
 -	Developed the pricing own label item manager C# WPF application, with SQL server 2008 database engine, and scheduled and self-serve SSRS reports.
@@ -85,7 +92,8 @@ Teradata, SQL Server 2008 R2-2012, SSIS, SSRS, SSAS, Oracle, C#, Tableau Server 
 **_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
 Teradata, SQL Server 2008 R2-2012, SSIS, SSRS, SSAS, Oracle, C#, XML, VB .NET, Perl, HP Neoview<br><br>
 
-**Database Administrator**, IT @ [ACT Conferencing](https://www.pgi.com//), Sydney, NSW _(2004 - 2008)_ <br>
+### Database Administrator <img  align="left" src="https://static.thenounproject.com/png/3306126-200.png" width="50" height="50"/> 
+IT @ [ACT Conferencing](https://www.pgi.com//), Sydney, NSW _(2004 - 2008)_ <br>
 - Supported and maintained reservations, billing, and technical support systems, including backend SQL databases with front end MS Access and web applications.
 - Integrated three diverse regional billing systems into a single system for the Asia Pacific region. 
 - Develop and maintain Perl scripts, DTS and SSIS packages to extract, load and transform multi-platform conference usage data for invoicing and capacity analysis.
