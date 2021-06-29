@@ -39,7 +39,7 @@ Enterprise Information Management, IT @ [Avant Mutual Group](http://www.avant.or
 **_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/>
 Qliksense, Qlik N Printing, SQL Server 2012 & 2017, SSIS, SSAS, Oracle, R, BIML, SAS, Cognos<br><br>
 
-### Business Intelligence Developer <img  align="left" src="https://static.thenounproject.com/png/199321-200.png" width="50" height="50"/> 
+### Business Intelligence Developer <img  align="left" src="https://static.thenounproject.com/png/3132358-200.png" width="50" height="50"/> 
 Data Operations, Technology @ [Quantium](http://quantium.com/), Sydney, NSW _(2014 - 2017)_ <br>
 -	Enhancements and support of SQL server 2005, 2008 and 2012 insurance databases for Quantium QuoteCompare® products. 
 - Support and maintenance of production processes for Google to Store and Facebook analytics data deliverables using SQL server 2014.
@@ -54,7 +54,7 @@ Data Operations, Technology @ [Quantium](http://quantium.com/), Sydney, NSW _(20
 **_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
 Teradata, SQL Server 2005-2014, SSIS, SSRS, SSAS, Microstrategy, SAS, C#, R, Bash<br><br>
 
-### Business Intelligence Developer <img  align="left" src="https://static.thenounproject.com/png/1180445-200.png" width="50" height="50"/> 
+### Business Intelligence Developer <img  align="left" src="https://static.thenounproject.com/png/3132358-200.png" width="50" height="50"/> 
 Retail Analytics, Technology @ [Quantium](http://quantium.com/), Bella Vista, NSW _(2013 - 2014)_ <br>
 -	Develop SSIS packages for importing data from Oracle and Teradata into SQL server 2008 R2 / 2012 databases. Also, develop SSIS packages to push data into Teradata from flat files or other databases. This supports both regular and adhoc analytics.
 -	Create, administer and troubleshoot scheduled SQL jobs for datamarts, reports and cubes. Includes scheduled and data driven subscription reports in a variety of formats including Excel, CSV and PDF. Usage volumes of 600-800 report subscriptions per week.
