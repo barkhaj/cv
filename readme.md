@@ -94,14 +94,14 @@ I specialise in providing data warehouse, data analytics and reporting solutions
 **Applications Developer**, Information Management Integration, Hurstville, NSW _(2000 - 2001)_ <br><br>
 **Presales Assistant**, Ipex Information Technology Group, Glebe, NSW _(1996 - 2000)_ <br><br>
 
-## Education
+## Education <img  align="left" src="https://user-images.githubusercontent.com/7928798/122936168-492a1200-d3b4-11eb-978f-609c75c08931.png" width="50" height="50"/> 
 - 2020 - Current Deakin University Master of Artificial Intelligence  
 - 1993 – 1995 Western Sydney University, Bachelor of Commerce (Computing & Information Systems) 
 
-## Awards
+## Awards <img  align="left" src="https://static.thenounproject.com/png/1693424-200.png" width="50" height="50"/> 
 - CIO Annual Awards, Certificate of Recognition, Avant Mutual, August 2018 
  
-## Other Training / Accreditations
+## Other Training / Accreditations <img  align="left" src="https://static.thenounproject.com/png/754208-200.png" width="50" height="50"/> 
 - Azure AI Fundamentals May, 2021 
 - Testing with Agile by University of Virginia on Coursera. Certificate earned on March 20, 2017
 - Running Product Design Sprints by University of Virginia on Coursera. Certificate earned on August 31, 2016
