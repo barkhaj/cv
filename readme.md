@@ -3,12 +3,12 @@
 [Email](mailto:barkha@fractal.ac) / [LinkedIn](https://www.linkedin.com/in/barkhajaved/) 
 
 <p>
-I specialise in providing data warehouse, data analytics and reporting solutions using technologies such as Teradata, SQL Server, SQL Server Reporting Services, Power BI, Qliksense, SQL Server Integration Services, and SQL Server Analysis Services. </p>
+I have over 12 years experience in business intelligence. I specialise in providing data warehouse, data analytics and reporting solutions using technologies such as Teradata, SQL Server, SQL Server Reporting Services, Power BI, Qliksense, SQL Server Integration Services, and SQL Server Analysis Services. </p>
 
-<p>Currently I am also studying Artificial Intelligence at Deakin University. So far in 2021, am developing in Python, building skills in machine learning, chatbot integration, reccommendation systems, and leveraging Azure Cognitive services such as Computer Vision, Custom Vision and LUIS. </p>
+<p>I am also studying Artificial Intelligence part-time at Deakin University. In 2021, am developing in Python, building skills in machine learning and deep learning, integrating chatbots, developing reccommendation systems, and leveraging Azure Cognitive services such as Computer Vision, Custom Vision and LUIS. </p>
 
 
-## Career History
+## Career History <img  align="left" src="https://static.thenounproject.com/png/103965-200.png" width="50" height="50"/> 
 
 **Datawarehouse & Business Intelligence Specialist**, Business Systems, IT @ [Royal Australasian College of Physicians](http://www.racp.edu.au/), Sydney, NSW _(2019 - Present)_ <br>
 -	First six months spent evaluating BI solutions and conducting proof of concepts to select technology for data acquisition automation, BI and reporting. 
@@ -21,8 +21,9 @@ I specialise in providing data warehouse, data analytics and reporting solutions
 -	Maintain Azure SQL ecosystem for the datawarehouse, including evaluation and proof of concept of new features, such as integrating with MS Customer Insights, using Power Automate, and using Power Apps.
 - Power BI web service administration and support, including maintaining data gateways. Promoting and publishing dataflows, datasets, dashboards, and apps to managed workspaces. 
 -	Being an active member of the data governance group, including evaluating, presenting and promoting information such as new Power BI features for problem scenarios at RACP.
--	Participate, share knowledge, and present in regular BI hub meetings with the wider college BI community.<br><br>
-**_Technologies used:_** Azure SQL database, Azure Data Factory, Power BI, SQL Server 2019, SSIS, SSRS, Postgres, MySQL, AWS Postgres RDS, AWS S3, Powershell, R, Python, Power Platform <br><br>
+-	Participate, share knowledge, and present in regular BI hub meetings with the wider college BI community.<br></br>
+**_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
+Azure SQL database, Azure Data Factory, Power BI, SQL Server 2019, SSIS, SSRS, Postgres, MySQL, AWS Postgres RDS, AWS S3, Powershell, R, Python, Power Platform <br><br>
 
 **Business Intelligence Specialist**, Enterprise Information Management, IT @ [Avant Mutual Group](http://www.avant.org.au/), Sydney NSW _(2017 - 2019)_ <br>
 - EIM sprint lead for Project Zebra, for Qlik Sense rollout to Claim, Member Services, CIO, New Ventures, Compliance, People and Culture, General Insurance and Research & Advocacy business units. This includes data preparation and data modelling; Qlik Sense stream provisioning; stake holder consultation and workshops; and project documentation.
@@ -33,7 +34,8 @@ I specialise in providing data warehouse, data analytics and reporting solutions
 - Define and document approach to decommission and migrate Cognos reports to Qlik Sense.
 - Data investigations into data warehouse metrics, quality issues and incidents raised by business users.
 - Support Qlik Sense environment, including installing extensions, setting up tasks, monitoring task scheduler, dashboard performance and troubleshooting.<br><br>
-**_Technologies used:_** Qliksense, Qlik N Printing, SQL Server 2012 & 2017, SSIS, SSAS, Oracle, R, BIML, SAS, Cognos<br><br>
+**_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/>  
+Qliksense, Qlik N Printing, SQL Server 2012 & 2017, SSIS, SSAS, Oracle, R, BIML, SAS, Cognos<br><br>
 
 **Business Intelligence Developer**, Data Operations, Technology @ [Quantium](http://quantium.com/), Sydney, NSW _(2014 - 2017)_ <br>
 -	Enhancements and support of SQL server 2005, 2008 and 2012 insurance databases for Quantium QuoteCompare® products. 
@@ -46,7 +48,8 @@ I specialise in providing data warehouse, data analytics and reporting solutions
 - SAS report conversion to SSRS reports with Teradata datasets, deployed as data driven report subscriptions via SSRS. 
 - Model, develop and maintain analytics Teradata data labs and SQL server reporting data marts. 
 - Microstrategy report development for data operations pre and post ETL quality checks on source and destination data. <br><br>
-**_Technologies used:_** Teradata, SQL Server 2005-2014, SSIS, SSRS, SSAS, Microstrategy, SAS, C#, R, Bash<br><br>
+**_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
+Teradata, SQL Server 2005-2014, SSIS, SSRS, SSAS, Microstrategy, SAS, C#, R, Bash<br><br>
 
 **Business Intelligence Developer**, Retail Analytics, Technology @ [Quantium](http://quantium.com/), Bella Vista, NSW _(2013 - 2014)_ <br>
 -	Develop SSIS packages for importing data from Oracle and Teradata into SQL server 2008 R2 / 2012 databases. Also, develop SSIS packages to push data into Teradata from flat files or other databases. This supports both regular and adhoc analytics.
@@ -58,7 +61,8 @@ I specialise in providing data warehouse, data analytics and reporting solutions
 -	Designed and implemented operational report solutions, such as email alerts to couriers for late running online shopping deliveries. Between 150 to 300 report subscriptions delivered weekly.
 -	Implement enhancements to the online eam analytics portal, a C# ASP.NET MVC 4 web application.
 -	Implement multi option WOW analytics team standards, and guidelines for Teradata, and SQL server database development, and reporting. Includes training and mentoring.<br><br>
-**_Technologies used:_** Teradata, SQL Server 2008 R2-2012, SSIS, SSRS, SSAS, C# <br><br>
+**_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
+Teradata, SQL Server 2008 R2-2012, SSIS, SSRS, SSAS, C# <br><br>
 
 **Business Intelligence Developer**, Corporate Customer Engagement @ [Woolworths Limited](https://www.woolworthsgroup.com.au//), Bella Vista NSW _(2011 - 2013)_ <br>
 -	Model, develop and maintain the SQL server 2008 R2 pricing analysis data mart. 
@@ -66,7 +70,8 @@ I specialise in providing data warehouse, data analytics and reporting solutions
 -	Migrated Supermarkets promotions management from Access database to a SQL server database with self-serve SSRS reports, volume of 600 reports consumed weekly. Includes database development, maintenance and ongoing support. 
 -	Develop ETL packages for importing data from Oracle and Teradata into SQL server databases. 
 -	Develop, maintain and administer the SQL server databases, and design, code and maintain Teradata data lab areas, for customer engagement regular and adhoc reporting. <br><br>
-**_Technologies used:_** Teradata, SQL Server 2008 R2-2012, SSIS, SSRS, SSAS, Oracle, C#, Tableau Server <br><br>
+**_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
+Teradata, SQL Server 2008 R2-2012, SSIS, SSRS, SSAS, Oracle, C#, Tableau Server <br><br>
 
 **Business Intelligence Developer**, Supermarket Finance @ [Woolworths Limited](https://www.woolworthsgroup.com.au//), Bella Vista, NSW _(2009 - 2010)_ <br>
 -	Introduced SSRS 2008R2 for supermarket finance BI reporting. Produced scheduled and data driven subscription reports, such as automated weekly competition price monitoring PDF reports, customised per business manager and category.
@@ -77,7 +82,8 @@ I specialise in providing data warehouse, data analytics and reporting solutions
 -	Developed, maintained and administered SQL server databases for regular and adhoc reporting. 
 -	Migrated reporting databases from SQL server 2005 to 2008 and 2008 R2.
 -	Provided familiarisation training and support for SQL server development tools to the finance BI and pricing teams. Included coding guidelines, package and report templates and documentation. <br><br>
-**_Technologies used:_** Teradata, SQL Server 2008 R2-2012, SSIS, SSRS, SSAS, Oracle, C#, XML, VB .NET, Perl, HP Neoview<br><br>
+**_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
+Teradata, SQL Server 2008 R2-2012, SSIS, SSRS, SSAS, Oracle, C#, XML, VB .NET, Perl, HP Neoview<br><br>
 
 **Database Administrator**, IT @ [ACT Conferencing](https://www.pgi.com//), Sydney, NSW _(2004 - 2008)_ <br>
 - Supported and maintained reservations, billing, and technical support systems, including backend SQL databases with front end MS Access and web applications.
@@ -87,12 +93,14 @@ I specialise in providing data warehouse, data analytics and reporting solutions
 - Implement SSRS and other reporting solutions for regional and company reports. 
 - Resolve database related support issues and implement preventative measures, such as development of a windows application to detect fraudulent activity on audio conferencing bridges.
 - Execute SQL server administration tasks, such as performance monitoring, installation, configuration, and security, backups and disaster recovery.
-- Provide systems documentation and user training. <br><br>
-**_Technologies used:_** SQL Server 2000 - 2005, SSIS, SSRS, HTML, C#, XML, VB .NET, Perl<br><br>
+- Provide systems documentation and user training. <br></br>
+**_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
+SQL Server 2000 - 2005, SSIS, SSRS, HTML, C#, XML, VB .NET, Perl<br><br>
 
-**Web Developer**, Freelance database, web and application development, Sydney, NSW _(2001 - 2004)_ <br><br>
-**Applications Developer**, Information Management Integration, Hurstville, NSW _(2000 - 2001)_ <br><br>
-**Presales Assistant**, Ipex Information Technology Group, Glebe, NSW _(1996 - 2000)_ <br><br>
+**Web Developer**, Freelance database, web and application development, Sydney, NSW _(2001 - 2004)_ <br>
+**Applications Developer**, Information Management Integration, Hurstville, NSW _(2000 - 2001)_ <br>
+**Presales Assistant**, Ipex Information Technology Group, Glebe, NSW _(1996 - 2000)_ <br>
+<br>
 
 ## Education <img  align="left" src="https://user-images.githubusercontent.com/7928798/122936168-492a1200-d3b4-11eb-978f-609c75c08931.png" width="50" height="50"/> 
 - 2020 - Current Deakin University Master of Artificial Intelligence  
