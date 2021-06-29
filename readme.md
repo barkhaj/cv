@@ -101,7 +101,7 @@ IT @ [ACT Conferencing](https://www.pgi.com//), Sydney, NSW _(2004 - 2008)_ <br>
 - Implement SSRS and other reporting solutions for regional and company reports. 
 - Resolve database related support issues and implement preventative measures, such as development of a windows application to detect fraudulent activity on audio conferencing bridges.
 - Execute SQL server administration tasks, such as performance monitoring, installation, configuration, and security, backups and disaster recovery.
-- Provide systems documentation and user training. <br></br>
+- Provide systems documentation and user training. <br><br>
 **_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
 SQL Server 2000 - 2005, SSIS, SSRS, HTML, C#, XML, VB .NET, Perl<br><br>
 
