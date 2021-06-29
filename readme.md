@@ -24,7 +24,7 @@ Business Systems, IT @ [Royal Australasian College of Physicians](http://www.rac
 -	Being an active member of the data governance group, including evaluating, presenting and promoting information such as new Power BI features for problem scenarios at RACP.
 -	Participate, share knowledge, and present in regular BI hub meetings with the wider college BI community.<br><br>
 **_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
-Azure SQL database, Azure Data Factory, Power BI, SQL Server 2019, SSIS, SSRS, Postgres, MySQL, AWS Postgres RDS, AWS S3, Powershell, R, Python, Power Platform <br><br>
+Azure SQL database, Azure Data Factory, Power BI, SQL Server 2008 R2 - 2019, SSIS, SSRS, Postgres, MySQL, AWS Postgres RDS, AWS S3, Powershell, R, Python, Power Platform <br><br>
 
 ### Business Intelligence Specialist <img  align="left" src="https://static.thenounproject.com/png/1089772-200.png" width="50" height="50"/> 
 Enterprise Information Management, IT @ [Avant Mutual Group](http://www.avant.org.au/), Sydney NSW _(2017 - 2019)_ <br>
@@ -37,7 +37,7 @@ Enterprise Information Management, IT @ [Avant Mutual Group](http://www.avant.or
 - Data investigations into data warehouse metrics, quality issues and incidents raised by business users.
 - Support Qlik Sense environment, including installing extensions, setting up tasks, monitoring task scheduler, dashboard performance and troubleshooting.<br><br>
 **_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/>
-Qliksense, Qlik N Printing, SQL Server 2012 & 2017, SSIS, SSAS, Oracle, R, BIML, SAS, Cognos<br><br>
+Qliksense, Qlik N Printing, SQL Server 2012 - 2017, SSIS, SSAS, Oracle, R, BIML, SAS, Cognos<br><br>
 
 ### Business Intelligence Developer <img  align="left" src="https://static.thenounproject.com/png/3132358-200.png" width="50" height="50"/> 
 Data Operations, Technology @ [Quantium](http://quantium.com/), Sydney, NSW _(2014 - 2017)_ <br>
@@ -52,7 +52,7 @@ Data Operations, Technology @ [Quantium](http://quantium.com/), Sydney, NSW _(20
 - Model, develop and maintain analytics Teradata data labs and SQL server reporting data marts. 
 - Microstrategy report development for data operations pre and post ETL quality checks on source and destination data. <br><br>
 **_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
-Teradata, SQL Server 2005-2014, SSIS, SSRS, SSAS, Microstrategy, SAS, C#, R, Bash<br><br>
+Teradata, SQL Server 2005-2014, SSIS, SSRS, SSAS, Microstrategy, SAS, R, Bash<br><br>
 
 ### Business Intelligence Developer <img  align="left" src="https://static.thenounproject.com/png/3132358-200.png" width="50" height="50"/> 
 Retail Analytics, Technology @ [Quantium](http://quantium.com/), Bella Vista, NSW _(2013 - 2014)_ <br>
