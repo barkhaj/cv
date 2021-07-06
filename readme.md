@@ -114,7 +114,7 @@ SQL Server 2000 - 2005, SSIS, SSRS, HTML, C#, XML, VB .NET, Perl<br><br>
 - 1993 – 1995 Western Sydney University, Bachelor of Commerce (Computing & Information Systems) 
 
 ## Awards <img  align="left" src="https://static.thenounproject.com/png/1693424-200.png" width="50" height="50"/> 
-- CIO Annual Awards, Certificate of Recognition, Avant Mutual, August 2018 
+- CIO Annual Awards, Certificate of Recognition, Avant Mutual, CIO Division, August 2018 
  
 ## Other Training / Accreditations <img  align="left" src="https://static.thenounproject.com/png/754208-200.png" width="50" height="50"/> 
 - Microsoft Certified Azure AI Fundamentals May, 2021 
