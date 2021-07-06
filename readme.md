@@ -118,7 +118,7 @@ SQL Server 2000 - 2005, SSIS, SSRS, HTML, C#, XML, VB .NET, Perl<br><br>
 - CIO Annual Awards, Certificate of Recognition, Avant Mutual, August 2018 
  
 ## Other Training / Accreditations <img  align="left" src="https://static.thenounproject.com/png/754208-200.png" width="50" height="50"/> 
-- Azure AI Fundamentals May, 2021 
+- Microsoft Certified Azure AI Fundamentals May, 2021 
 - Testing with Agile by University of Virginia on Coursera. Certificate earned on March 20, 2017
 - Running Product Design Sprints by University of Virginia on Coursera. Certificate earned on August 31, 2016
 - Getting Started: Agile Meets Design Thinking by University of Virginia on Coursera. Certificate earned on July 20, 2016
