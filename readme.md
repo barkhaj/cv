@@ -13,13 +13,12 @@ I have over 12 years experience in business intelligence. I specialise in provid
 ### Datawarehouse & Business Intelligence Specialist <img  align="left" src="https://static.thenounproject.com/png/3492039-200.png" width="50" height="50"/> 
 Business Systems, IT @ [Royal Australasian College of Physicians](http://www.racp.edu.au/), Sydney, NSW _(2019 - Present)_ <br>
 -	First six months spent evaluating BI solutions and conducting proof of concepts to select technology for data acquisition automation, BI and reporting. 
--	Led data warehouse development using the Microsoft Azure stack, includes Azure SQL database, data lake Gen 2, and Azure Data Factory. 
--	Conduct data requirements gathering and data modelling workshops for Power BI rollout to Finance STP, Education, Learning & Assessment teams. 
+-	Led data warehouse development using the Microsoft Azure stack, includes Azure SQL database, data lake Gen 2, and ETL development using Azure Data Factory. The data warehouse sources include Microsoft SQL server, Azure SQL databases, MySQL, AWS Postgres RDS and Postgres databases, chat REST API, and flat files. 
 -	Design, model, develop and maintain a new SQL data warehouse from scratch. Includes dimensional modelling, creating, and generating ODS, dimensions and facts, and virtual datamarts.
--	The datawarehouse data sources include Microsoft SQL server, Azure SQL databases, MySQL, AWS Postgres RDS and Postgres databases, REST API, and flat files.
--	Development of Power BI data models and reporting for Member Services, IT and Finance teams. Includes developing Power BI dataflows, and implementing row level security in dashboards.
--	Database administration and support of legacy BI SQL servers. Includes migration of SQL 2014 to SQL Server 2019, for databases, SSIS packages and SSRS reports. Responsible for direct report, the lead DBA during the migration of SQL R2 2008 / 2012 servers. 
--	Maintain Azure SQL ecosystem for the datawarehouse, including evaluation and proof of concept of new features, such as integrating with MS Customer Insights, using Power Automate, and using Power Apps.
+- Conduct requirements gathering and data modelling workshops for Power BI rollout to Education, Learning & Assessment, and Finance STP teams. 
+-	Development of Power BI data models and reporting for MyCPD2 and VLE2 applications, Member Services, IT and Finance teams. Includes developing Power BI dataflows, and implementing row level security.
+-	Database administration and support of legacy BI SQL servers. Includes migration of SQL 2008 R2 / 2014 to SQL Server 2019, for databases, SSIS packages and SSRS reports. Managed lead DBA during the data migration project. 
+-	Maintain ecosystem for the Azure SQL datawarehouse, including evaluation and proof of concept of new features, such as integrating with MS Customer Insights, using Power Automate, and using Power Apps.
 - Power BI web service administration and support, including maintaining data gateways. Promoting and publishing dataflows, datasets, dashboards, and apps to managed workspaces. 
 -	Being an active member of the data governance group, including evaluating, presenting and promoting information such as new Power BI features for problem scenarios at RACP.
 -	Participate, share knowledge, and present in regular BI hub meetings with the wider college BI community.<br><br>
@@ -43,7 +42,7 @@ Qliksense, Qlik N Printing, SQL Server 2012 - 2017, SSIS, SSAS, Oracle, R, BIML,
 Data Operations, Technology @ [Quantium](http://quantium.com/), Sydney, NSW _(2014 - 2017)_ <br>
 -	Enhancements and support of SQL server 2005, 2008 and 2012 insurance databases for Quantium QuoteCompare® products. 
 - Support and maintenance of production processes for Google to Store and Facebook analytics data deliverables using SQL server 2014.
-- Productionise, monitor and maintain data quality tests in R for Quantium CheckOut® data, Woolworths EDW data and for bespoke datasets. 
+- Productionise, monitor, and maintain data quality tests in R for Quantium CheckOut® data, Woolworths EDW data and for bespoke datasets. 
 - Data investigation support for product service desk, to help resolve customer questions regarding CheckOut® data. 
 - Ongoing maintenance, enhancements and support for the Woolworths enterprise customer insight cubes. Includes SQL server database administration and troubleshooting.
 - Code and develop packages for data preparation of very large data sets, such as Woolworths customer value model, store tailored ranging and substitutability. 
@@ -57,16 +56,16 @@ Teradata, SQL Server 2005-2014, SSIS, SSRS, SSAS, Microstrategy, SAS, R, Bash<br
 ### Business Intelligence Developer <img  align="left" src="https://static.thenounproject.com/png/3132358-200.png" width="50" height="50"/> 
 Retail Analytics, Technology @ [Quantium](http://quantium.com/), Bella Vista, NSW _(2013 - 2014)_ <br>
 -	Develop SSIS packages for importing data from Oracle and Teradata into SQL server 2008 R2 / 2012 databases. Also, develop SSIS packages to push data into Teradata from flat files or other databases. This supports both regular and adhoc analytics.
--	Create, administer and troubleshoot scheduled SQL jobs for datamarts, reports and cubes. Includes scheduled and data driven subscription reports in a variety of formats including Excel, CSV and PDF. Usage volumes of 600-800 report subscriptions per week.
+-	Create, administer, and troubleshoot scheduled SQL jobs for datamarts, reports and cubes. Includes scheduled and data driven subscription reports in a variety of formats including Excel, CSV, and PDF. Usage volumes of 600-800 report subscriptions per week.
 -	Developed Woolworths trade planning weekly cube and reports.
--	Developed SSRS reports such as Liquor offers, redemptions and basket summary reports. Scheduled with daily, weekly or monthly report subscriptions.
+-	Developed SSRS reports such as Liquor offers, redemptions and basket summary reports. Scheduled with daily, weekly, or monthly report subscriptions.
 -	Design and develop end to end, ETL and reporting solution for bespoke reports such as everyday rewards customer profile and Big W baby club reports.
 -	Rapid application development of the supermarket promotional effectiveness data mart for Woolworths, New Zealand. 
 -	Designed and implemented operational report solutions, such as email alerts to couriers for late running online shopping deliveries. Between 150 to 300 report subscriptions delivered weekly.
--	Implement enhancements to the online eam analytics portal, a C# ASP.NET MVC 4 web application.
+-	Implement enhancements to the online team analytics portal, a C# ASP.NET MVC 4 web application.
 -	Implement multi option WOW analytics team standards, and guidelines for Teradata, and SQL server database development, and reporting. Includes training and mentoring.<br><br>
 **_Technologies used:_** <img  align="left" src="https://static.thenounproject.com/png/3654357-200.png" width="40" height="40"/> 
-Teradata, SQL Server 2008 R2-2012, SSIS, SSRS, SSAS, C# <br><br>
+Teradata, SQL Server 2008 R2-2012, SSIS, SSRS, SSAS, C#<br><br>
 
 
 ### Business Intelligence Developer <img  align="left" src="https://static.thenounproject.com/png/1180445-200.png" width="50" height="50"/> 
