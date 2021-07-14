@@ -111,7 +111,7 @@ SQL Server 2000 - 2005, SSIS, SSRS, HTML, C#, XML, VB .NET, Perl<br><br>
 
 ## Education <img  align="left" src="https://user-images.githubusercontent.com/7928798/122936168-492a1200-d3b4-11eb-978f-609c75c08931.png" width="50" height="50"/> 
 - 2020 - Current Deakin University Master of Artificial Intelligence  
-- 1993 – 1995 Western Sydney University, Bachelor of Commerce (Computing & Information Systems) 
+- 1996 Western Sydney University, Bachelor of Commerce (Computing & Information Systems) 
 
 ## Awards <img  align="left" src="https://static.thenounproject.com/png/1693424-200.png" width="50" height="50"/> 
 - CIO Annual Awards, Certificate of Recognition, Avant Mutual, CIO Division, August 2018 
